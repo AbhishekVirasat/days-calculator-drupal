@@ -1,0 +1,6 @@
+days_difference.admin:
+  title: 'Days Difference'
+  description: 'Get the Number days between dates Form '
+  parent: system.admin_config_content
+  route_name: days_difference.days_difference_form
+  weight: 100

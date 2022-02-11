@@ -1,0 +1,6 @@
+name: 'Days Difference'
+type: module
+description: 'This is the custom module for calculating days difference between dates'
+package: Custom
+version: 1.0
+core_version_requirement: ^9.2
